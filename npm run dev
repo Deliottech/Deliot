@@ -1,0 +1,12 @@
+
+## Auth
+- Sign up at /signup and log in at /login.
+- Users stored in data/users.json (file-backed). Not for production.
+
+## Adding products
+- Edit data/products.json for product listings.
+
+## Deployment
+- Set JWT_SECRET environment variable in production.
+
+---
